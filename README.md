@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - Em construção... \o/
+  - Building... 🚧⚒️\o/
 </details>
 
 ###
