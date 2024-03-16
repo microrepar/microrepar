@@ -49,7 +49,7 @@
   <img align="center" src="https://camo.githubusercontent.com/cf2ce239a20a91510e5e35972f02e1850330f2ff125267c7cb2e45a9f0da4760/68747470733a2f2f692e696d6775722e636f6d2f395461474362792e676966" alt="Imagem">
 </p>
 
-## Skills
+## 🔥 Skills:
 <div style="flex-basis: 48%;">
   <h3>Programming Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
